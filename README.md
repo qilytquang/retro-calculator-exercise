@@ -1,7 +1,7 @@
 # retro-calculator-exercise
 From auto-layout tour (https://github.com/qilytquang/auto-layout)
 
-This is similar [retro-calculator](https://github.com/qilytquang/retro-calculator) exercise.
+This is similar [retro-calculator](https://github.com/qilytquang/retro-calculator) example.
 Addition, just changing background and adding Clear button.
 
 Still working on it (completed the UI, custom fonts)...
