@@ -13,6 +13,7 @@
 		741F03621DF95F15002B3BA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 741F03611DF95F15002B3BA6 /* Assets.xcassets */; };
 		741F03651DF95F15002B3BA6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 741F03631DF95F15002B3BA6 /* LaunchScreen.storyboard */; };
 		74AE0CC31DF990E700DC4D57 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74AE0CC21DF990E700DC4D57 /* Minecraft.ttf */; };
+		74AE0CC51DF99AEA00DC4D57 /* btn.wav in Resources */ = {isa = PBXBuildFile; fileRef = 74AE0CC41DF99AEA00DC4D57 /* btn.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		741F03641DF95F15002B3BA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		741F03661DF95F15002B3BA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74AE0CC21DF990E700DC4D57 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
+		74AE0CC41DF99AEA00DC4D57 /* btn.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = btn.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				74AE0CC21DF990E700DC4D57 /* Minecraft.ttf */,
+				74AE0CC41DF99AEA00DC4D57 /* btn.wav */,
 				741F035A1DF95F15002B3BA6 /* AppDelegate.swift */,
 				741F035C1DF95F15002B3BA6 /* ViewController.swift */,
 				741F035E1DF95F15002B3BA6 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74AE0CC51DF99AEA00DC4D57 /* btn.wav in Resources */,
 				741F03651DF95F15002B3BA6 /* LaunchScreen.storyboard in Resources */,
 				741F03621DF95F15002B3BA6 /* Assets.xcassets in Resources */,
 				74AE0CC31DF990E700DC4D57 /* Minecraft.ttf in Resources */,
